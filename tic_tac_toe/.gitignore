@@ -11,11 +11,7 @@
 .mtj.tmp/
 
 # Intellij
-<<<<<<< HEAD
-
-=======
-.idea/
->>>>>>> d5cd0f30996086f2666d09fa06a120a4e61b1516
+.idea
 *.iml
 *.iws
 
@@ -23,13 +19,8 @@
 .DS_Store
 
 # Maven
-<<<<<<< HEAD
 log
 target
-=======
-log/
-target/
->>>>>>> d5cd0f30996086f2666d09fa06a120a4e61b1516
 
 # Package Files #
 *.jar
@@ -43,7 +34,4 @@ target/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-<<<<<<< HEAD
 /.idea/
-=======
->>>>>>> d5cd0f30996086f2666d09fa06a120a4e61b1516
